@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">FLApiCallTest</string>
+
+  <string name="profile_about">About</string>
+  <string name="review_freelancer">Freelancer Empty view</string>
+  <string name="save_profile">SAVE PROFILE</string>
+  <string name="profile_skills">Skills</string>
+  <string name="add_skills">Add more skills (5/20)</string>
+  <string name="profile_exams">Exams</string>
+  <string name="add_exams">Take more class</string>
+</resources>

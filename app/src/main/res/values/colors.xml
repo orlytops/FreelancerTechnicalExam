@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#0A33FF</color>
+  <color name="colorPrimaryDark">#0828CB</color>
+  <color name="colorAccent">#0088E0</color>
+
+  <color name="white">#ffffff</color>
+  <color name="black">#000000</color>
+  <color name="fl_blue">#0088E0</color>
+  <color name="gray_footer">#AAAAAA</color>
+  <color name="green_progress">#5CC169</color>
+  <color name="progress_gray">#EFEFEF</color>
+</resources>
